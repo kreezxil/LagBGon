@@ -31,8 +31,8 @@ No need to ask. Just use it. A link back to this page or the curse project would
 MIT
 
 # Authors
-Original: ZenDarva
-Current: Kreezxil
+* Original: ZenDarva
+* Current: Kreezxil
 
 # Permission to Continue
 ![Continuance](https://media-elerium.cursecdn.com/attachments/218/987/lag-b-gone-private-messages-minecraft-curseforge.png)
